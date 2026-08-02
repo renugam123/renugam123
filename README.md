@@ -48,13 +48,7 @@
 
 # 🚀 Featured Projects
 
----
-
 ## 🩺 AI-Powered Radiology Assistant
-
-<p align="center">
-  <img src="images/radiology-assistant.png" width="850" alt="AI-Powered Radiology Assistant"/>
-</p>
 
 ### 📖 Description
 An AI-powered healthcare platform that assists radiologists by generating automated reports from medical images while securely managing patient records.
@@ -82,10 +76,6 @@ An AI-powered healthcare platform that assists radiologists by generating automa
 
 ## 🌌 AstroSpectral Intelligence System
 
-<p align="center">
-  <img src="images/astrospectral.png" width="850" alt="AstroSpectral Intelligence System"/>
-</p>
-
 ### 📖 Description
 A deep learning-based astronomical image classification system that identifies celestial objects using convolutional neural networks.
 
@@ -112,10 +102,6 @@ A deep learning-based astronomical image classification system that identifies c
 
 ## 🏥 DiagnoBridge
 
-<p align="center">
-  <img src="images/diagnobridge.png" width="850" alt="DiagnoBridge"/>
-</p>
-
 ### 📖 Description
 A FHIR R4-compliant Electronic Medical Record platform integrating AYUSH NAMASTE with ICD-11 for standardized healthcare interoperability.
 
@@ -141,10 +127,6 @@ A FHIR R4-compliant Electronic Medical Record platform integrating AYUSH NAMASTE
 ---
 
 ## 🚗 Drowsy Driving Prevention System
-
-<p align="center">
-  <img src="images/drowsy-driving.png" width="850" alt="Drowsy Driving Prevention System"/>
-</p>
 
 ### 📖 Description
 A computer vision-based driver safety solution that detects drowsiness in real time using eye tracking and instantly alerts the driver.
