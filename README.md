@@ -169,19 +169,6 @@ A computer vision-based driver safety solution that detects drowsiness in real t
 </p>
 
 ---
-
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renugam123&show_icons=true&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -202,33 +189,23 @@ A computer vision-based driver safety solution that detects drowsiness in real t
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-[<img src="https://github-profile-trophy.vercel.app/?username=renugam123&theme=algolia&margin-w=10"/>](https://github-profile-trophy.vercel.app/?username=renugam123&theme=algolia)
-
-</p>
-
----
-
 <h2>⚡ Coding Profiles</h2>
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_PROFILE">
+<a href="https://leetcode.com/u/RENUGA_MANI2007/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_HACKERRANK_PROFILE">
+<a href="https://www.hackerrank.com/profile/renugam24it">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="YOUR_CODECHEF_PROFILE">
+<a href="https://www.codechef.com/users/renuga_2007">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-<a href="YOUR_GFG_PROFILE">
+<a href="https://www.geeksforgeeks.org/profile/renugamani">
 <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge"/>
 </a>
 
