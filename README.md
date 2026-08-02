@@ -215,7 +215,6 @@ A computer vision-based driver safety solution that detects drowsiness in real t
 
 ## 📚 Currently Learning
 
-- 
 - System Design
 - React
 - CN
