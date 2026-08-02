@@ -178,8 +178,6 @@ A computer vision-based driver safety solution that detects drowsiness in real t
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renugam123&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENUGA M&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
