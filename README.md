@@ -176,7 +176,7 @@ A computer vision-based driver safety solution that detects drowsiness in real t
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RENUGA M&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renugam123&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENUGA M&layout=compact&theme=tokyonight"/>
 
@@ -188,7 +188,7 @@ A computer vision-based driver safety solution that detects drowsiness in real t
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RENUGA M&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=renugam123&theme=tokyonight"/>
 
 </p>
 
@@ -198,7 +198,7 @@ A computer vision-based driver safety solution that detects drowsiness in real t
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RENUGA M&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=renugam123&theme=tokyo-night"/>
 
 </p>
 
@@ -208,7 +208,7 @@ A computer vision-based driver safety solution that detects drowsiness in real t
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RENUGA M&theme=algolia&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=renugam123&theme=algolia&margin-w=10"/>
 
 </p>
 
