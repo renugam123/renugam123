@@ -208,7 +208,7 @@ A computer vision-based driver safety solution that detects drowsiness in real t
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=renugam123&theme=algolia&margin-w=10"/>
+[<img src="https://github-profile-trophy.vercel.app/?username=renugam123&theme=algolia&margin-w=10"/>](https://github-profile-trophy.vercel.app/?username=renugam123&theme=algolia)
 
 </p>
 
@@ -240,7 +240,7 @@ A computer vision-based driver safety solution that detects drowsiness in real t
 
 ## 📚 Currently Learning
 
-- Spring Boot
+- 
 - System Design
 - React
 - CN
