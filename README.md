@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech Information Technology Student
 - 💻 Passionate about Java, Full Stack Development & AI
-- 🌱 Currently learning **Spring Boot, React.js, Node.js & DSA**
+- 🌱 Currently learning **Java, React.js, Express, Node.js & DSA**
 - 🤖 Building AI-powered applications
 - 🏆 Participating in Hackathons & Open Source
 - 🎯 Goal: Become a Software Development Engineer (SDE)
@@ -40,38 +40,135 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,tensorflow,postman&perline=10"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=10"/>
 
 </p>
 
 ---
 
 # 🚀 Featured Projects
-AI-Powered Radiology Assistant
-Python — Flask — MongoDB
-• Automated radiology report generation.
-• Managed patient records securely.
-• Improved diagnosis workflow using AI.
 
-AstroSpectral Intelligence System
-TensorFlow — OpenCV — Deep Learning
-• Built an AI-based astronomical image classifier.
-• Applied CNN models for object recognition.
-• Improved prediction accuracy through preprocessing.
+---
 
-DiagnoBridge
-Python — FastAPI — MongoDB — FHIR R4
-• Built a FHIR R4 compliant EMR platform.
-• Integrated AYUSH NAMASTE and ICD-11.
-• Developed secure REST APIs.
+## 🩺 AI-Powered Radiology Assistant
 
-Drowsy Driving Prevention System
-Python — OpenCV
-• Developed a real-time drowsiness detection system.
-• Used eye tracking for fatigue monitoring.
-• Generated instant driver alerts.
+<p align="center">
+  <img src="images/radiology-assistant.png" width="850" alt="AI-Powered Radiology Assistant"/>
+</p>
 
+### 📖 Description
+An AI-powered healthcare platform that assists radiologists by generating automated reports from medical images while securely managing patient records.
 
+### ✨ Key Features
+- 🧠 Automated AI-based radiology report generation
+- 🏥 Secure patient record management
+- 📊 AI-assisted diagnosis workflow
+- ⚡ Fast and accurate report generation
+
+### 🛠️ Tech Stack
+`Python` `Flask` `MongoDB`
+
+<p>
+<a href="YOUR_RADIOLOGY_REPO">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_RADIOLOGY_DEMO">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+## 🌌 AstroSpectral Intelligence System
+
+<p align="center">
+  <img src="images/astrospectral.png" width="850" alt="AstroSpectral Intelligence System"/>
+</p>
+
+### 📖 Description
+A deep learning-based astronomical image classification system that identifies celestial objects using convolutional neural networks.
+
+### ✨ Key Features
+- 🌠 Astronomical image classification
+- 🤖 CNN-based object recognition
+- 🛰️ Image preprocessing pipeline
+- 📈 Improved prediction accuracy
+
+### 🛠️ Tech Stack
+`TensorFlow` `OpenCV` `Deep Learning`
+
+<p>
+<a href="YOUR_ASTRO_REPO">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_ASTRO_DEMO">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+## 🏥 DiagnoBridge
+
+<p align="center">
+  <img src="images/diagnobridge.png" width="850" alt="DiagnoBridge"/>
+</p>
+
+### 📖 Description
+A FHIR R4-compliant Electronic Medical Record platform integrating AYUSH NAMASTE with ICD-11 for standardized healthcare interoperability.
+
+### ✨ Key Features
+- 🩺 FHIR R4 compliant EMR
+- 🔄 AYUSH NAMASTE & ICD-11 integration
+- 🔐 Secure REST APIs
+- ☁️ Healthcare interoperability
+
+### 🛠️ Tech Stack
+`Python` `FastAPI` `MongoDB` `FHIR R4`
+
+<p>
+<a href="YOUR_DIAGNOBRIDGE_REPO">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_DIAGNOBRIDGE_DEMO">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+## 🚗 Drowsy Driving Prevention System
+
+<p align="center">
+  <img src="images/drowsy-driving.png" width="850" alt="Drowsy Driving Prevention System"/>
+</p>
+
+### 📖 Description
+A computer vision-based driver safety solution that detects drowsiness in real time using eye tracking and instantly alerts the driver.
+
+### ✨ Key Features
+- 👁️ Real-time eye tracking
+- 🚨 Instant fatigue alerts
+- 🎥 Live camera monitoring
+- 🛡️ Accident prevention support
+
+### 🛠️ Tech Stack
+`Python` `OpenCV`
+
+<p>
+<a href="YOUR_DROWSY_REPO">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_DROWSY_DEMO">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
+</a>
+</p>
+
+---
 
 
 
@@ -117,14 +214,25 @@ Python — OpenCV
 
 ---
 
-## ⚡ Coding Profiles
+<h2>⚡ Coding Profiles</h2>
 
-<p align="left">
+<p align="center">
 
-- 💻 LeetCode
-- 🏆 HackerRank
-- 🚀 GitHub
-- 📚 CodeChef
+<a href="YOUR_LEETCODE_PROFILE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_HACKERRANK_PROFILE">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="YOUR_CODECHEF_PROFILE">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="YOUR_GFG_PROFILE">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge"/>
+</a>
 
 </p>
 
