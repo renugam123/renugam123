@@ -21,7 +21,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/renugam19?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:renugam1908@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -40,55 +40,48 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,firebase,tensorflow,postman&perline=10"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,tensorflow,postman&perline=10"/>
 
 </p>
 
 ---
 
 # 🚀 Featured Projects
+AI-Powered Radiology Assistant
+Python — Flask — MongoDB
+• Automated radiology report generation.
+• Managed patient records securely.
+• Improved diagnosis workflow using AI.
 
-### 🤖 Smart Interview Coach
-- AI Resume Analyzer
-- Mock Interview
-- Java & DSA Questions
-- Aptitude Practice
+AstroSpectral Intelligence System
+TensorFlow — OpenCV — Deep Learning
+• Built an AI-based astronomical image classifier.
+• Applied CNN models for object recognition.
+• Improved prediction accuracy through preprocessing.
 
----
+DiagnoBridge
+Python — FastAPI — MongoDB — FHIR R4
+• Built a FHIR R4 compliant EMR platform.
+• Integrated AYUSH NAMASTE and ICD-11.
+• Developed secure REST APIs.
 
-### 🩺 Intelligent Radiology Anomaly Detection
-- Deep Learning
-- CNN
-- TensorFlow
-- Medical Image Classification
+Drowsy Driving Prevention System
+Python — OpenCV
+• Developed a real-time drowsiness detection system.
+• Used eye tracking for fatigue monitoring.
+• Generated instant driver alerts.
 
----
 
-### 📚 Smart Academic Management System
 
-- Student Leave Management
-- Faculty Approval System
-- Angular + Node.js + MongoDB
 
----
-
-### 🏙️ QUBIQ
-
-Unified City Utility Bill Management System
-
-- React
-- Node.js
-- MongoDB
-
----
 
 ## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RENUGA M&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENUGA M&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -98,7 +91,7 @@ Unified City Utility Bill Management System
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RENUGA M&theme=tokyonight"/>
 
 </p>
 
@@ -108,7 +101,7 @@ Unified City Utility Bill Management System
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RENUGA M&theme=tokyo-night"/>
 
 </p>
 
@@ -118,7 +111,7 @@ Unified City Utility Bill Management System
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RENUGA M&theme=algolia&margin-w=10"/>
 
 </p>
 
@@ -142,8 +135,8 @@ Unified City Utility Bill Management System
 - Spring Boot
 - System Design
 - React
-- Docker
-- Kubernetes
+- CN
+- Java
 - DSA
 - AWS
 
@@ -157,7 +150,7 @@ Unified City Utility Bill Management System
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=RENUGA M&label=Profile+Views&color=blue&style=flat"/>
 
 </p>
 
