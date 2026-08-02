@@ -233,7 +233,7 @@ A computer vision-based driver safety solution that detects drowsiness in real t
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RENUGA M&label=Profile+Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=renugam123&label=Profile+Views&color=blue&style=flat"/>
 
 </p>
 
