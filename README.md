@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renuga M</h1>
-<h3 align="center">🚀 B.Tech Information Technology Student | Full Stack Developer | AI & Java Enthusiast</h3>
+<h3 align="center">🚀 B.Tech Information Technology Student | Software Engineer | AI & Java Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" />
